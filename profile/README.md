@@ -15,6 +15,17 @@ Whether you're a developer looking to contribute, a user exploring new tools, or
 
 ---
 
+## 💖 Support Our Work
+
+If you love what we do and want to help us keep building, please consider supporting us:
+
+- **GitHub Sponsors**: [github.com/sponsors/euphoriadevelopment](https://github.com/sponsors/euphoriadevelopment)
+- **Patreon**: [patreon.com/euphoriadev](https://patreon.com/euphoriadev)
+
+Your support helps us dedicate more time to maintaining and improving our open-source projects.
+
+---
+
 ## 🤝 Get Involved
 
 We welcome contributors of all levels! Here’s how you can help:
