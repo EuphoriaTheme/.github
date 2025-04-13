@@ -19,8 +19,8 @@ Whether you're a developer looking to contribute, a user exploring new tools, or
 
 If you love what we do and want to help us keep building, please consider supporting us:
 
-- **GitHub Sponsors**: [github.com/sponsors/euphoriadevelopment](https://github.com/sponsors/euphoriadevelopment)
-- **Patreon**: [patreon.com/euphoriadev](https://patreon.com/euphoriadev)
+- **GitHub Sponsors**: [github.com/sponsors/RepGraphics](https://github.com/sponsors/RepGraphics)
+- **Patreon**: [patreon.com/EuphoriaDevelopment](https://patreon.com/EuphoriaDevelopment)
 
 Your support helps us dedicate more time to maintaining and improving our open-source projects.
 
