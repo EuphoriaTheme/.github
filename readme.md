@@ -29,7 +29,7 @@ We welcome contributors of all levels! Here’s how you can help:
 
 - 🌐 Website: [euphoriatheme.uk](https://euphoriatheme.uk)
 - 🌐 Website: [euphoriadevelopment.uk](https://euphoriadevelopment.uk)
-- 💬 Discord: [discord.gg/yourinvite](https://discord.euphoriadevelopment.uk)
+- 💬 Discord: [discord.euphoriadevelopment.uk](https://discord.euphoriadevelopment.uk)
 
 ---
 
